@@ -86,7 +86,6 @@ Používané soubory cookies:
 | Technický název | Vydavatel        | Účel a popis cookies                     | Doba trvání                |
 | --------------- | ---------------- | ---------------------------------------- | -------------------------- |
 | token           | ComVisoft s.r.o. | Identifikační token přihlášení uživatele | 7 dní od poslední aktivity |
-| Bananas         | **1.89**         | 5234                                     | S                          |
 
 Další informace o cookies a jejich aktuální seznam naleznete prostřednictvím jednotlivých internetových prohlížečů, nejčastěji v položce Nástroje pro vývojáře.
 
