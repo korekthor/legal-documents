@@ -85,12 +85,19 @@
 ## Příloha č. 1 - Formulář pro odstoupení od smlouvy
 
 Adresát: ComVisoft s.r.o.
+
 Tímto prohlašuji, že odstupuji od Smlouvy:
+
 Datum uzavření Smlouvy:
+
 Jméno a příjmení:
+
 Adresa:
+
 E-mailová adresa:
+
 Specifikace Služeb, kterého se Smlouva týká:
+
 Způsob pro navrácení obdržených finančních prostředků, případně uvedení čísla bankovního účtu:
 
 Je-li kupující spotřebitelem má právo v případě, že objednal služby prostřednictvím stránek společnosti ComVisoft s.r.o. („Společnost“) nebo jiného prostředku komunikace na dálku, mimo případy uvedené v § 1837 zák. č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů odstoupit od již uzavřené kupní smlouvy do 14 dnů ode dne uzavření smlouvy, resp. pokud se jedná o koupi zboží, pak do čtrnácti dnů od jeho převzetí. V případě smlouvy, jejímž předmětem je několik kusů zboží nebo dodání několika částí zboží, začíná tato lhůta běžet až dnem dodání posledního kusu nebo části zboží, a v případě smlouvy, na základě které má být zboží dodáváno pravidelně a opakovaně, ode dne dodání první dodávky.
@@ -102,4 +109,5 @@ Odstoupí-li kupující, který je spotřebitelem, od kupní smlouvy, zašle neb
 Odstoupí-li kupující, který je spotřebitelem, od kupní smlouvy, vrátí mu Společnost bez zbytečného odkladu, nejpozději do 14 dnů od odstoupení od kupní smlouvy, všechny peněžní prostředky (kupní cenu dodaného zboží).
 
 Datum:
+
 Podpis:
