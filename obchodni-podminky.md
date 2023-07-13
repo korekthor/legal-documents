@@ -67,7 +67,7 @@
 
 ## Příloha č. 1 - Formulář pro odstoupení od smlouvy
 
-Adresát: ComVisoft s.r.o.
+Adresát: ComVisoft s.r.o., Strmá 798, Kobeřice 747 27
 
 Tímto prohlašuji, že odstupuji od Smlouvy:
 
@@ -94,3 +94,5 @@ Odstoupí-li kupující, který je spotřebitelem, od kupní smlouvy, vrátí mu
 Datum:
 
 Podpis:
+
+_Formulář odešlete e-mailem, případně doporučeně poštou. Zdvořile vás ale prosíme, abyste využili možnosti elektronického zaslání tohoto formuláře (e-mailem)._
