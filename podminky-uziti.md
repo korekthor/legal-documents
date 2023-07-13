@@ -1,13 +1,9 @@
 # Podmínky užití stránek korekthor.cz a licenční podmínky
-
 1. Základní ustanovení
-
    1. „Námi“ nebo „Poskytovatelem“ se pro tento dokument rozumí společnost ComVisoft s.r.o., která rovněž stránky korekthor.cz
    2. „Vámi“ nebo „Uživatelem“ se pro tento dokument rozumí uživatelé nástroje korekthor pro opravu textů v českém jazyce.
    3. „Softwarem“ nebo „Službou“ se pro tento dokument rozumí webový nástroj korekthor pro opravu textů v českém jazyce dostupný na webových stránkách https://korekthor.cz.
-
 2. Podmínky užití stránek
-
    1. Pro používání softwaru se musíte přihlásit. Přihlášením souhlasíte s tímto dokumentem i dokumentem o [ochraně osobních údajů dostupném zde](https://www.korekthor.cz/gdpr).
    2. Uživatel přístupem na Stránky potvrzuje, že se seznámil s těmito podmínkami a že jsou jeho znalosti práce s chytrou elektronikou dostatečné pro návštěvu a užívání Stránek.
    3. Uživatel přístupem na Stránky rovněž potvrzuje, že zkontroloval zařízení, prostřednictvím kterého na Stránky přistupuje, a toto zařízení neobsahuje žádný škodlivý software (zejména počítačové viry).
@@ -16,7 +12,6 @@
    6. Veškerý obsah Stránek je duševním vlastnictvím podle autorského práva, chráněného zejména zákonem č. 121/2000 Sb. Všechna práva jsou vyhrazena.
    7. Uživatel se zavazuje, že nebude vykonávat žádnou činnost, která by mohla jemu nebo třetím osobám umožnit neoprávněné užití software.
    8. Osobní údaje jsou zpracovávány podle dokumentu [Ochrana osobních údajů dostupného zde](https://www.korekthor.cz/gdpr).
-
 3. Licenční podmínky
    1. Poskytovatel propůjčuje uživateli licenci pro používaní služby. Licenční podmínky se liší podle druhu využívané služby. Ty jsou následující:
       1. Základní
