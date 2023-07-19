@@ -43,7 +43,8 @@
    3. Platbu Ceny po Vás budeme požadovat po uzavření Smlouvy a před poskytnutím Služeb. Úhradu Celkové ceny můžete provést následujícími způsoby:
       1. Kartou online. V takovém případě probíhá platba přes platební bránu [BUDE DOPLNĚNO], přičemž platba se řídí podmínkami této platební brány, které jsou dostupné na adrese: [BUDE DOPLNĚNO]. V případě platby kartou online je Celková cena splatná do [BUDE DOPLNĚNO]
    4. Faktura bude vystavena v elektronické podobě po uhrazení Celkové ceny a bude zaslána na Vaši e-mailovou adresu. Faktura bude též dostupná v Uživatelském účtu.
-   5. O zpřístupnění služeb budete informováni E-mailem. Tím vám nevzniká vlastnické právo na software, máte pouze právo službu využívat podle licence dostupné zde.
+   5. Kupující má možnost zvolit při dokončování objednávky automatické platby. V tom případě bude Služba automaticky obnovena ve zvoleném intervalu automatickým stržením peněz z platební karty. Tato obnovení budou probíhat až do ukončení předplatného (v zákaznické administraci či e-mailem).
+   6. O zpřístupnění služeb budete informováni E-mailem. Tím vám nevzniká vlastnické právo na software, máte pouze právo službu využívat podle licence dostupné zde.
 7. Odstoupení od smlouvy
    1. K odstoupení od Smlouvy, tedy k ukončení smluvního vztahu mezi Námi a Vámi od jeho počátku, může dojít z důvodů a způsoby uvedenými v tomto článku, případně v dalších ustanoveních Podmínek, ve kterých je možnost odstoupení výslovně uvedena.
    2. V případě, že jste spotřebitel, tedy osoba kupující Služby mimo rámec své podnikatelské činnosti, máte v souladu s ustanovením §1829 občanského zákoníku právo odstoupit od Smlouvy bez udání důvodu ve lhůtě 14 dnů ode dne uzavření Smlouvy. V případě, že bude zpřístupnění nástroje oproti uzavření smlouvy opožděno, začíná tato lhůta zpřístupněním služby.
