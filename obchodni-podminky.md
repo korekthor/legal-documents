@@ -1,7 +1,7 @@
 # Všeobecné obchodní podmínky
 1. Základní ustanovení
    1. Tyto všeobecné obchodní podmínky (“Podmínky”) společnosti ComVisoft s.r.o., se sídlem Strmá 798, Kobeřice 747 27, IČO 09168991, zapsané v obchodním rejstříku pod sp. zn. C 82257 vedeném u Krajského soudu v Ostravě, e -mail info@korekthor.cz, telefonní číslo +420 603 362 907, adresa sídla Strmá 798, Kobeřice 747 27 („My” nebo „Prodávající”) upravují v souladu s ustanovením § 1751 odst. 1 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů („Občanský zákoník“) vzájemná práva a povinnosti Vás, jakožto kupujících, a Nás, jakožto prodávajících, vzniklá v souvislosti nebo na základě kupní smlouvy („Smlouva“) uzavřené na webových stránkách https://korekthor.cz.
-   2. Všechny informace o zpracování Vašich osobních údajů jsou obsaženy v dokumentu Ochrana osobních údajů, který naleznete zde.
+   2. Všechny informace o zpracování Vašich osobních údajů jsou obsaženy v dokumentu Ochrana osobních údajů, který naleznete [zde](https://korekthor.cz/ochrana-udaju).
    3. Ustanovení těchto Podmínek jsou nedílnou součástí Smlouvy. Smlouva a Podmínky jsou vyhotoveny v českém jazyce. Znění Podmínek můžeme jednostranně měnit či doplňovat. Tímto ustanovením nejsou dotčena práva a povinnosti vzniklá po dobu účinnosti předchozího znění Podmínek.
    4. Jak jistě víte, tak komunikujeme primárně na dálku. Proto i pro naši Smlouvu platí, že jsou použity prostředky komunikace na dálku, které umožňují, abychom se spolu dohodli bez současné fyzické přítomnosti Nás a Vás, a Smlouva je tak uzavřena distančním způsobem v prostředí Stránek, a to prostřednictvím rozhraní webové stránky („Stránky“).
    5. Pokud některá část Podmínek odporuje tomu, co jsme si společně schválili v rámci procesu Vašeho nákupu na Našich Stránkách, bude mít tato konkrétní dohoda před Podmínkami přednost.
@@ -12,7 +12,7 @@
    4. Objednávka je Váš závazný návrh na uzavření Smlouvy o koupi Služeb s Námi;
    5. Uživatelský účet je účet zřízený na základě Vámi sdělených údajů, jež umožňuje uchování zadaných údajů a uchovávání historie objednaných Služeb a uzavřených Smluv;
    6. Vy jste osoba nakupující na našich Stránkách, právními předpisy označovaná jako kupující;
-   7. Službami se rozumí předplatná dostupná na našich Stránkách. Zakoupením Služeb získáváte licenci k využití našich nástrojů upřesněnou zde.
+   7. Službami se rozumí předplatná dostupná na našich Stránkách. Zakoupením Služeb získáváte licenci k využití našich nástrojů upřesněnou [zde](https://korekthor.cz/podminky-uziti).
 3. Obecná ustanovení a poučení
    1. Koupě Služeb je možná jen přes webové rozhraní Stránek.
    2. Při nákupu Služby je Vaše povinnost poskytnout Nám všechny informace správně a pravdivě. Informace, které jste Nám poskytli v Objednávce budeme tedy považovat za správné a pravdivé.
@@ -41,10 +41,10 @@
    1. Cena je vždy uvedena v rámci Stránek, v návrhu Objednávky a samozřejmě ve Smlouvě. V případě rozporu mezi Cenou uvedenou u Služeb v rámci Stránek a Cenou uvedenou v návrhu Objednávky se uplatní Cena uvedená v návrhu Objednávky, která bude vždy totožná s cenou ve Smlouvě.
    2. Celková cena je uvedena včetně DPH včetně veškerých poplatků stanovených zákonem.
    3. Platbu Ceny po Vás budeme požadovat po uzavření Smlouvy a před poskytnutím Služeb. Úhradu Celkové ceny můžete provést následujícími způsoby:
-      1. Kartou online. V takovém případě probíhá platba přes platební bránu [BUDE DOPLNĚNO], přičemž platba se řídí podmínkami této platební brány, které jsou dostupné na adrese: [BUDE DOPLNĚNO]. V případě platby kartou online je Celková cena splatná do [BUDE DOPLNĚNO]
+      1. Bankovní převod prostřednictvím platební brány Comgate, přičemž platba se řídí podmínkami této platební brány, které jsou dostupné na adrese: https://www.comgate.cz/blog/platebni-metoda-bankovni-prevod.
    4. Faktura bude vystavena v elektronické podobě po uhrazení Celkové ceny a bude zaslána na Vaši e-mailovou adresu. Faktura bude též dostupná v Uživatelském účtu.
    5. Kupující má možnost zvolit při dokončování objednávky automatické platby. V tom případě bude Služba automaticky obnovena ve zvoleném intervalu automatickým stržením peněz z platební karty. Tato obnovení budou probíhat až do ukončení předplatného (v zákaznické administraci či e-mailem).
-   6. O zpřístupnění služeb budete informováni E-mailem. Tím vám nevzniká vlastnické právo na software, máte pouze právo službu využívat podle licence dostupné zde.
+   6. O zpřístupnění služeb budete informováni E-mailem. Tím vám nevzniká vlastnické právo na software, máte pouze právo službu využívat podle licence dostupné [zde](https://korekthor.cz/podminky-uziti).
 7. Odstoupení od smlouvy
    1. K odstoupení od Smlouvy, tedy k ukončení smluvního vztahu mezi Námi a Vámi od jeho počátku, může dojít z důvodů a způsoby uvedenými v tomto článku, případně v dalších ustanoveních Podmínek, ve kterých je možnost odstoupení výslovně uvedena.
    2. V případě, že jste spotřebitel, tedy osoba kupující Služby mimo rámec své podnikatelské činnosti, máte v souladu s ustanovením §1829 občanského zákoníku právo odstoupit od Smlouvy bez udání důvodu ve lhůtě 14 dnů ode dne uzavření Smlouvy. V případě, že bude zpřístupnění nástroje oproti uzavření smlouvy opožděno, začíná tato lhůta zpřístupněním služby.
