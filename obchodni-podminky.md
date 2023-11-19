@@ -80,7 +80,7 @@ Adresa:
 
 E-mailová adresa:
 
-Specifikace Služeb, kterého se Smlouva týká:
+Specifikace Služeb, kterých se Smlouva týká:
 
 Způsob pro navrácení obdržených finančních prostředků, případně uvedení čísla bankovního účtu:
 
