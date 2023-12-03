@@ -1,6 +1,6 @@
 # Podmínky užití stránek korekthor.cz a licenční podmínky
 1. Základní ustanovení
-   1. „Námi“ nebo „Poskytovatelem“ se pro tento dokument rozumí společnost ComVisoft s.r.o., která rovněž stránky korekthor.cz
+   1. „Námi“ nebo „Poskytovatelem“ se pro tento dokument rozumí společnost ComVisoft s.r.o., která rovněž provozuje stránky korekthor.cz
    2. „Vámi“ nebo „Uživatelem“ se pro tento dokument rozumí uživatelé nástroje korekthor pro opravu textů v českém jazyce.
    3. „Softwarem“ nebo „Službou“ se pro tento dokument rozumí webový nástroj korekthor pro opravu textů v českém jazyce dostupný na webových stránkách https://korekthor.cz.
 2. Podmínky užití stránek
