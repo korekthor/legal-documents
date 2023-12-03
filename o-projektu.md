@@ -1,7 +1,7 @@
 # O projektu
 Tři studenti s nadšením dělat něco nového. Něco, co tu ještě nebylo. Snad jako každého nás unesla schopnost zahraničních nástrojů komplexně opravovat chyby v angličtině, a tak nás napadlo se o něco podobného pokusit i pro naši mateřštinu.
 ### Více než rok vývoje
-Po více než roce vývoje tak představujeme výsledek našeho úsilí. Ještě nejsme v cíli, i s omezenými zdroji jsme ale došli daleko dál, než kterýkoliv jiný dostupný nástroj. A naše cesta tady rozhodně nekončí. Nejlepší způsob, jak nám pomoct vytvořit ještě lepší korekthor, je pořídit si předplatné. Stojí méně než jedno kafe měsíčně za nejpokročilejší automatickou opravu češtiny!
+Po více než roce vývoje tak představujeme výsledek našeho úsilí. Ještě nejsme v cíli, i s omezenými zdroji jsme ale došli daleko dál, než kterýkoliv jiný dostupný nástroj. A naše cesta tady rozhodně nekončí. Nejlepší způsob, jak nám pomoct vytvořit ještě lepší korekthor, je [pořídit si předplatné](https://korekthor.cz/premium). Vyjde vás to na méně než jedno kafe měsíčně za nejpokročilejší automatickou opravu češtiny!
 ### Neuronové sítě
 Po vzoru úspěšných zahraničních nástrojů jsme místo algoritmického přístupu sáhli po neuronových sítích. Korekthor tak dokáže opravit i chyby závislé na kontextu, které žádný jiný dostupný systém najít nezvládne.
 ## Co všechno korekthor opraví?
@@ -31,3 +31,4 @@ Níže najdete výčet chyb, které se korekthor snaží opravovat. Různé chyb
 - Odstranění symbolu ,-
 - Nahrazení běžných mezer za nedělitelné mezery
 - Velká písmena u slov, kde nezáleží na jejich kontextu
+- Odstanění násobných interpunkcí a mezer
