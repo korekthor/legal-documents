@@ -3,7 +3,7 @@ Tři studenti s nadšením dělat něco nového. Něco, co tu ještě nebylo. Sn
 ### Více než rok vývoje
 Po více než roce vývoje tak představujeme výsledek našeho úsilí. Ještě nejsme v cíli, i s omezenými zdroji jsme ale došli daleko dál, než kterýkoliv jiný dostupný nástroj. A naše cesta tady rozhodně nekončí. Nejlepší způsob, jak nám pomoct vytvořit ještě lepší korekthor, je [pořídit si předplatné](https://korekthor.cz/premium). Vyjde vás to na méně než jedno kafe měsíčně za nejpokročilejší automatickou opravu češtiny!
 ### Neuronové sítě
-Po vzoru úspěšných zahraničních nástrojů jsme místo algoritmického přístupu sáhli po neuronových sítích. Korekthor tak dokáže opravit i chyby závislé na kontextu, které žádný jiný dostupný systém najít nezvládne.
+Po vzoru úspěšných zahraničních nástrojů jsme místo algoritmického přístupu sáhli po neuronových sítích. Korekthor tak narozdíl od kteréhokoliv jiného dostupného systému dokáže opravit i chyby závislé na kontextu.
 ## Co všechno korekthor opraví?
 Níže najdete výčet chyb, které se korekthor snaží opravovat. Různé chyby označuje korekthor s různou úspěšností.
 ### Chyby hledané neuronovými sítěmi
